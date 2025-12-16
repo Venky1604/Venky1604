@@ -36,8 +36,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.s
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
 <img align="left" alt="Azure" width="30px" style="padding-right:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"/>
-<img align="left" alt="AWS" width="30px" style="padding-right:10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"/>
 <img align="left" alt="Google Cloud" width="30px" style="padding-right:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"/>
 <img align="left" alt="Apache Spark" width="30px" style="padding-right:10px;"
@@ -52,10 +50,14 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+<img align="left" alt="Microsoft Office" width="30px" style="padding-right:10px;"
+src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftoffice.svg"/>
 <img align="left" alt="Tableau" width="30px" style="padding-right:10px;"
 src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tableau.svg"/>
 <img align="left" alt="Power BI" width="30px" style="padding-right:10px;"
 src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/powerbi.svg"/>
+<img align="left" alt="Hugging Face" width="30px" style="padding-right:10px;"
+src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/huggingface.svg"/>
 
 
 <br />
