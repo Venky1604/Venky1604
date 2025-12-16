@@ -20,7 +20,6 @@ I use this GitHub to share:
   </a>
   <a href="mailto:venkateshpanta03@gmail.com">
     <img alt="Email" title="Email me" src="https://custom-icon-badges.demolab.com/badge/Email-Contact-EA4335?logo=gmail&logoColor=white&style=for-the-badge"/>
- adge&logo=person-add&label=Follow&logoColor=white"/>
   </a>
 </p>
 
