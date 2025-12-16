@@ -15,13 +15,13 @@ I use this GitHub to share:
 ---
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+  <a href="www.linkedin.com/in/venkatesh-panta-analyst">
     <img alt="LinkedIn" title="Connect on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"/>
   </a>
   <a href="mailto:venkateshpanta03@gmail.com">
     <img alt="Email" title="Email me" src="https://custom-icon-badges.demolab.com/badge/Email-Contact-EA4335?logo=gmail&logoColor=white&style=for-the-badge"/>
   </a>
-  <a href="https://github.com/YOUR-GITHUB-USERNAME?tab=followers">
+  <a href="https://github.com/Venky1604">
     <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/YOUR-GITHUB-USERNAME?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
   </a>
 </p>
