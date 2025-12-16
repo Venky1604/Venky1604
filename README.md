@@ -20,9 +20,7 @@ I use this GitHub to share:
   </a>
   <a href="mailto:venkateshpanta03@gmail.com">
     <img alt="Email" title="Email me" src="https://custom-icon-badges.demolab.com/badge/Email-Contact-EA4335?logo=gmail&logoColor=white&style=for-the-badge"/>
-  </a>
-  <a href="https://github.com/YOUR-GITHUB-USERNAME?tab=followers">
-    <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/YOUR-GITHUB-USERNAME?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+ adge&logo=person-add&label=Follow&logoColor=white"/>
   </a>
 </p>
 
