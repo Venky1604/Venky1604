@@ -1,6 +1,6 @@
 # Venkatesh Panta
 
-**`AI / ML Engineer | Generative AI | Data Scientist`**
+**` Data Scientist`|Generative AI |**
 
 I’m an AI/ML Engineer and data professional focused on building **enterprise-ready, production-grade AI systems**. My work spans the complete lifecycle of AI solutions — from data analysis and model development to deploying secure, scalable applications in the cloud.
 
