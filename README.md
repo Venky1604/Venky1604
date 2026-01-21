@@ -1,6 +1,7 @@
 # Venkatesh Panta
 
 **` Data Scientist` `Generative AI` |**
+
 **Data Analyst and analytics-focused data professional with 5+ years of experience working with SQL, Python, and cloud analytics platforms.** I use this GitHub to share practical, end-to-end analytics projects and experiments focused on turning data into actionable insights.
 
 My work includes:
