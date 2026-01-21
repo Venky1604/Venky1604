@@ -66,12 +66,14 @@ src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/huggingface.svg
 ---
 
 ### 🚀 Core Areas of Focus
-- **Generative AI:** RAG pipelines, embeddings, vector search, prompt engineering  
-- **Agentic AI:** AutoGen, CrewAI, multi-agent orchestration, tool calling  
-- **Machine Learning:** Model development, evaluation, feature engineering  
-- **MLOps:** CI/CD, MLflow, monitoring, drift detection  
-- **Cloud AI:** Azure OpenAI, Azure AI Search, secure AI deployments  
-- **Data Analytics:** SQL, Python, dashboards, business insights  
+- **Languages:** Python (Advanced), SQL, NoSQL
+- **Data Engineering:** Airflow, ETL Pipelines, Data Modeling, Data Quality Checks, Batch Processing
+- **Cloud Platforms:** AWS (S3, Glue, Lambda, EC2, EKS), GCP (GKE), Azure
+- **Streaming & Distributed Systems:** Kafka (Foundational), Spark (Academic/PoC), Elasticsearch
+- **DevOps & Reliability:** Docker, CI/CD (GitHub Actions, Jenkins), Monitoring & Logging
+- **Analytics & BI:** Tableau, Power BI, SQL-based Reporting
+- **ML (Supporting):** Feature Engineering, Model Deployment (SageMaker), Time Series**
+ 
 
 ---
 
