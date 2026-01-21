@@ -1,16 +1,18 @@
 # Venkatesh Panta
 
 **` Data Scientist` `Generative AI` |**
+**Data Analyst and analytics-focused data professional with 5+ years of experience working with SQL, Python, and cloud analytics platforms.** I use this GitHub to share practical, end-to-end analytics projects and experiments focused on turning data into actionable insights.
 
-I’m an AI/ML Engineer and data professional focused on building **enterprise-ready, production-grade AI systems**. My work spans the complete lifecycle of AI solutions — from data analysis and model development to deploying secure, scalable applications in the cloud.
+My work includes:
+- SQL- and Python-based data analysis and reporting
+- Data cleaning, exploratory analysis, and feature preparation
+- Dashboarding, KPI development, and business intelligence
+- Cloud-based analytics workflows (Azure)
+- Analytics-oriented AI and GenAI experiments (search-driven insights, RAG-style analytics use cases)
 
-I specialize in **Generative AI**, **Retrieval-Augmented Generation (RAG)**, and **agentic AI workflows**, with hands-on experience designing APIs, microservices, and ML pipelines that solve real-world business problems. I enjoy building systems from the ground up — planning architectures, writing clean code, and delivering solutions that are reliable, explainable, and impactful.
+I focus on writing clean, reproducible, and well-documented code, with an emphasis on data quality, explainability, and real-world business relevance. Many projects reflect how analytics is applied in production environments—supporting decision-making, monitoring performance, and scaling reporting systems.
 
-I use this GitHub to share:
-- End-to-end AI & ML projects  
-- GenAI applications (RAG, agents, automation)  
-- Data analytics & visualization work  
-- Production-ready code, documentation, and experiments  
+This repository represents my continuous learning and hands-on work in **data analytics, cloud-based BI, and applied AI for analytics**.
 
 ---
 
